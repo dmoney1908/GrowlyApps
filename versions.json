@@ -1,0 +1,13 @@
+{
+  "versions": {
+      "mac_versions": {
+          "current_version": "0.0.0",
+          "versions": []
+      },
+      "windows_versions": {
+          "current_version": "0.0.0",
+          "versions": []
+      }
+  },
+  "status": true
+}
