@@ -1,8 +1,9 @@
 {
     "versions": {
         "mac_versions": {
-            "current_version": "1.0.12",
+            "current_version": "1.0.13",
             "versions": [
+                "1.0.13",
                 "1.0.0",
                 "1.0.1",
                 "1.0.10",
