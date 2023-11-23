@@ -12,7 +12,7 @@
   "follow_user_click":  "//*[@class=\"_aacl _aaco _aacw _aad6 _aade\"]",
   "post_click": "//*[@class=\"_aabd _aa8k  _al3l\"]",
   "post_like_click":  "//span/*[@aria-label=\"Like\"]",
-  "post_next_click": "//*[@aria-label=\"Next\"]",
+  "post_next_click": "//svg/*[@aria-label=\"Next\"]",
   "watch_story_click":  "//*[@class=\"_aarf _aarg\"]",
   "watch_story_like_click": "//span/*[@aria-label=\"Like\"]",
   "watch_story_close_click":  "//*[@aria-label=\"Close\"]"
