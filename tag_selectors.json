@@ -2,6 +2,7 @@
   "username": "username",
   "password": "password",
   "login_button": "//*[@id=\"loginForm\"]//*[@type=\"submit\"]",
+  "accept_cookie": "//*[contains(text(), \"Allow all cookies\")]",
   "save_info": "//*[contains(text(), \"Save Info\")]",
   "save_info_not_now": "//*[contains(text(), \"Not Now\")]",
   "not_now": "//*[contains(text(), \"Not now\")]",
