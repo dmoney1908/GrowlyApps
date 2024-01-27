@@ -14,7 +14,7 @@
   "posts_click": "//*[@class=\"_aabd _aa8k  _al3l\"]",
   "post_get_username_text": "//*[@class=\"x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s x1q0g3np xqjyukv x6s0dn4 x1oa3qoh x1nhvcw1\"]",
   "post_close_click": "//*[@aria-label=\"Close\"]",
-  "following_btn":  "//button[contains(@type, \"button\")]/*[contains(text(), \"Following\")]",
+  "following_btn":  "//button[contains(@type, \"button\")]",
   "unfollow_btn":  "//*[contains(text(), \"Unfollow\")]",
   "follow_user_click":  "//*[contains(text(), \"Follow\")]",
   "follow_user_click_old":  "//*[@class=\"_aacl _aaco _aacw _aad6 _aade\"]",
